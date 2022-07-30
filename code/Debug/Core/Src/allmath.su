@@ -1,0 +1,7 @@
+allmath.c:2:5:check_time	24	static
+allmath.c:17:6:next_time	16	static
+allmath.c:39:6:convert_time	24	static
+allmath.c:47:6:modify_time	40	static
+allmath.c:76:6:evaluate_array	32	static
+allmath.c:79:5:minn	16	static
+allmath.c:83:6:get_card_p2	16	static

@@ -1,0 +1,14 @@
+main.c:66:6:init	152	static
+main.c:73:6:page1	152	static
+main.c:82:6:page2	152	static
+main.c:97:6:page3	152	static
+main.c:112:6:page4	152	static
+main.c:127:6:page5	152	static
+main.c:142:6:page2_1	152	static
+main.c:178:6:page3_1	152	static
+main.c:189:6:page4_1	152	static
+main.c:201:6:page5_1	152	static
+main.c:234:5:main	8	static
+main.c:300:6:SystemClock_Config	72	static
+main.c:335:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:350:6:Error_Handler	4	static
